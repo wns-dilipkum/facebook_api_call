@@ -1,0 +1,15 @@
+{
+  "name": "fbcallback",
+  "version": "1.0.0",
+  "description": "Application for testing webhook connection Callback URL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "startFacebook": "node index.js"
+  },
+  "author": "Dilip Verma SDEII",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
